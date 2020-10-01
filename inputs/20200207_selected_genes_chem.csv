@@ -1,0 +1,89 @@
+,MOPS_24hr,Strand,Length,PID,Synonym,Code,COG,Location,Name,YFP,FISH,Copy_number,Chem.5-copy
+acpS,0.0,-,126.0,16130488.0,b2563,-,COG0736I,2698640..2699020,holo-[acyl-carrier-protein] synthase,1.0,,33.0,21.0
+argG,0.006,+,447.0,16131063.0,b3172,-,COG0137E,3316659..3318002,argininosuccinate synthase,1.0,,6788.0,3210.0
+aroB,0.01,-,362.0,16131267.0,b3389,-,COG0337E,3515420..3516508,3-dehydroquinate synthase,1.0,,516.0,426.0
+aroE,0.007,-,272.0,16131162.0,b3281,-,COG0169E,3428042..3428860,shikimate dehydrogenase,1.0,,220.0,135.0
+birA,0.0,+,321.0,16131807.0,b3973,-,COG0340H,4171105..4172070,BirA transcriptional repressor; biotin-[acetyl-CoA-carboxylase] ligase,1.0,,4.0,0.0
+carA,0.003,+,382.0,16128026.0,b0032,-,COG0505EF,29651..30799,carbamoyl phosphate synthetase,1.0,,8486.0,4019.0
+dapA,0.0,-,292.0,16130403.0,b2478,-,COG0329EM,2596904..2597782,dihydrodipicolinate synthase,1.0,,3441.0,2026.0
+dapB,0.0,+,273.0,16128025.0,b0031,-,COG0289E,28374..29195,dihydrodipicolinate reductase,1.0,,788.0,182.0
+dnaA,0.0,-,467.0,16131570.0,b3702,-,COG0593L,3880349..3881752,DnaA transcriptional dual regulator,1.0,,107.0,44.0
+dnaB,0.0,+,471.0,16131878.0,b4052,-,COG0305L,4262337..4263752,primosome,1.0,,176.0,114.0
+dnaE,0.0,+,1160.0,16128177.0,b0184,-,COG0587L,205126..208608,DNA polymerase III; &alpha; subunit,1.0,,4.0,3.0
+dnaX,0.0,+,643.0,16128454.0,b0470,-,COG2812L,491316..493247,DNA polymerase III; &gamma; subunit,1.0,,40.0,26.0
+eno,0.0,-,432.0,16130686.0,b2779,-,COG0148G,2904665..2905963,degradosome,1.0,1.0,,13997.0
+fabA,0.0,-,172.0,16128921.0,b0954,-,COG0764I,1015175..1015693,&beta;-hydroxyacyl-ACP dehydrase [multifunctional],1.0,,5526.0,7028.0
+fabI,0.0,-,262.0,16129249.0,b1288,-,COG0623I,1348275..1349063,enoyl-ACP reductase (NAD[P]H) [multifunctional],1.0,1.0,6861.0,4044.0
+fabZ,0.0,+,151.0,16128173.0,b0180,-,COG0764I,202101..202556,&beta;-hydroxyacyl-ACP dehydratase,1.0,1.0,1993.0,732.0
+fbaA,0.0,-,359.0,16130826.0,b2925,-,COG0191G,3068187..3069266,fructose bisphosphate aldolase monomer,1.0,1.0,14635.0,10803.0
+fmt,0.0,+,315.0,16131167.0,b3288,-,COG0223J,3432236..3433183,10-formyltetrahydrofolate:L-methionyl-tRNA(fMet) N-formyltransferase,1.0,,,569.0
+folA,0.0,+,159.0,16128042.0,b0048,-,COG0262H,49823..50302,dihydrofolate reductase,1.0,,415.0,536.0
+folC,0.0,-,422.0,16130250.0,b2315,-,COG0285H,2429696..2430964,folylpoly-&gamma;-glutamate synthetase / dihydrofolate synthetase,1.0,,108.0,16.0
+folD,0.0,-,288.0,16128513.0,b0529,-,COG0190H,556098..556964,,,,1664.0,1156.0
+ftsA,0.0,+,420.0,16128087.0,b0094,-,COG0849D,103982..105244,essential cell division protein FtsA,1.0,,847.0,508.0
+ftsK,0.0,+,1329.0,16128857.0,b0890,-,COG1674D,932447..936436,essential cell division protein FtsK,1.0,,1.0,0.0
+fusA,0.0,-,704.0,16131219.0,b3340,-,COG0480J,3469422..3471536,elongation factor G,1.0,1.0,16693.0,10445.0
+gapA,0.0,+,331.0,16129733.0,b1779,-,COG0057G,1860795..1861790,glyceraldehyde 3-phosphate dehydrogenase-A monomer,1.0,,27520.0,21291.0
+gcvH,0.323,-,129.0,16130806.0,b2904,-,COG0509E,3047182..3047571,,,,1083.0,830.0
+glnS,0.0,+,554.0,16128656.0,b0680,-,COG0008J,705316..706980,glutaminyl-tRNA synthetase,1.0,,1466.0,797.0
+glyA,0.002,-,417.0,16130476.0,b2551,-,COG0112E,2682276..2683529,serine hydroxymethyltransferase,1.0,1.0,18108.0,10259.0
+gpmA,0.383,-,250.0,16128723.0,b0755,-,COG0588G,786066..786818,phosphoglyceromutase 1 monomer,1.0,,10944.0,9205.0
+gpmM,,+,514.0,16131483.0,b3612,-,COG0696G,3783283..3784827,phosphoglycerate mutase; cofactor independent,1.0,,,
+guaA,0.001,-,525.0,16130432.0,b2507,-,COG0519F,2628980..2630557,GMP synthetase,1.0,,2005.0,503.0
+gyrA,0.0,-,875.0,16130166.0,b2231,-,COG0188L,2334815..2337442,DNA gyrase; subunit A,1.0,,119.0,58.0
+gyrB,0.0,-,804.0,49176395.0,b3699,-,COG0187L,3875728..3878142,DNA gyrase; subunit B,1.0,1.0,922.0,294.0
+hemH,0.0,+,320.0,16128459.0,b0475,-,COG0276H,497279..498241,ferrochelatase,1.0,,67.0,39.0
+holB,0.0,+,334.0,16129062.0,b1099,-,COG0470L,1154985..1155989,DNA polymerase III; &delta; prime subunit,1.0,,43.0,0.0
+infA,0.0,-,72.0,16128851.0,b0884,-,COG0361J,925448..925666,protein chain initiation factor IF-1,1.0,1.0,7999.0,6504.0
+ispA,0.0,-,299.0,16128406.0,b0421,-,COG0142H,439426..440325,geranyl diphosphate synthase / farnesyl diphosphate synthase,1.0,,383.0,315.0
+ispE,0.0,-,283.0,16129171.0,b1208,-,COG1947I,1261249..1262100,4-diphosphocytidyl-2-C-methylerythritol kinase,1.0,,92.0,58.0
+ispF,0.0,-,159.0,16130653.0,b2746,-,COG0245I,2869323..2869802,2-C-methyl-D-erythritol 2;4-cyclodiphosphate synthase monomer,1.0,,16.0,9.0
+ispG,0.0,-,372.0,16130440.0,b2515,-,COG0821I,2638708..2639826,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase,1.0,,746.0,583.0
+kdsA,0.0,+,284.0,16129178.0,b1215,-,COG2877M,1267388..1268242,3-deoxy-D-<i>manno</i>-octulosonate 8-phosphate synthase,1.0,,3017.0,2590.0
+kdsB,0.0,+,248.0,16128885.0,b0918,-,COG1212M,970075..970821,3-deoxy-D-<i>manno</i>-octulosonate cytidylyltransferase,1.0,,939.0,603.0
+ligA,0.0,-,671.0,16130337.0,b2411,-,COG0272L,2526183..2528198,DNA ligase,1.0,,149.0,83.0
+lolA,0.0,+,203.0,145698236.0,b0891,-,COG2834M,936595..937206,periplasmic chaperone; effects translocation of lipoproteins from inner membrane to outer,1.0,,1192.0,1193.0
+lpxD,0.0,+,341.0,16128172.0,b0179,-,COG1044M,200971..201996,UDP-3-O-[3-hydroxymyristoyl]glucosamine N-acetyltransferase,1.0,1.0,984.0,758.0
+metF,0.01,+,296.0,16131779.0,b3941,-,COG0685E,4130639..4131529,,,,3725.0,1695.0
+metH,0.357,+,1227.0,16131845.0,b4019,-,COG1410E,4221851..4225534,,,,307.0,70.0
+metK,0.0,+,384.0,16130843.0,b2942,-,COG0192H,3084728..3085882,MetK S-adenosylmethionine synthetase monomer,1.0,1.0,8937.0,5965.0
+mreB,0.0,-,347.0,90111564.0,b3251,-,COG1077D,3398066..3399109,longitudinal peptidoglycan synthesis/chromosome segregation-directing complex,1.0,1.0,4098.0,2496.0
+mukB,0.0,+,1486.0,16128891.0,b0924,-,COG3096D,975549..980009,cell division protein involved in chromosome partitioning,1.0,,36.0,6.0
+mukF,0.0,+,440.0,16128889.0,b0922,-,COG3006D,973542..974864,Ca<sup>2+</sup>-binding protein involved in chromosome partitioning,1.0,,25.0,4.0
+murA,0.0,-,419.0,16131079.0,b3189,-,COG0766M,3333257..3334516,UDP-N-acetylglucosamine enolpyruvoyl transferase,1.0,,742.0,360.0
+murB,0.0,+,342.0,16131806.0,b3972,-,COG0812M,4170080..4171108,UDP-<i>N</i>-acetylenolpyruvoylglucosamine reductase,1.0,,118.0,80.0
+murE,0.0,+,495.0,16128078.0,b0085,-,COG0769M,93166..94653,UDP-N-acetylmuramoylalanyl-D-glutamate 2;6-diaminopimelate ligase,1.0,,346.0,200.0
+murG,0.0,+,355.0,16128083.0,b0090,-,COG0707M,99644..100711,N-acetylglucosaminyl transferase,1.0,,196.0,97.0
+murI,0.0,+,285.0,90111671.0,b3967,-,COG0796M,4163451..4164308,glutamate racemase,1.0,,179.0,123.0
+nadE,0.0,+,275.0,16129694.0,b1740,-,COG0171H,1820482..1821309,NAD+ synthase; glutamine dependent / NAD+ synthase; NH3-dependent,1.0,,3595.0,2372.0
+nrdA,0.0,+,761.0,16130169.0,b2234,-,COG0209F,2342887..2345172,ribonucleoside-diphosphate reductase [multifunctional],1.0,1.0,28.0,5.0
+parE,0.0,-,630.0,16130926.0,b3030,-,COG0187L,3171526..3173418,topoisomerase IV subunit B,1.0,,24.0,5.0
+pdxH,0.005,-,218.0,16129596.0,b1638,-,COG0259H,1715375..1716031,pyridoxine 5'-phosphate oxidase / pyridoxamine 5'-phosphate oxidase,1.0,,917.0,691.0
+pfkA,0.087,+,320.0,16131754.0,b3916,-,COG0205G,4105575..4106537,6-phosphofructokinase-1 monomer,1.0,,2820.0,2071.0
+pgi,0.137,+,549.0,16131851.0,b4025,-,COG0166G,4231781..4233430,phosphoglucose isomerase,1.0,,,104.0
+pgk,0.0,-,387.0,16130827.0,b2926,-,COG0126G,3069481..3070644,phosphoglycerate kinase,1.0,1.0,,15829.0
+plsB,0.0,-,807.0,90111678.0,b4041,-,COG2937I,4252066..4254489,glycerol-3-phosphate acyltransferase,1.0,,1.0,0.0
+prfA,0.0,+,360.0,16129174.0,b1211,-,COG0216J,1264235..1265317,peptide chain release factor RF1,1.0,,117.0,65.0
+proA,0.007,+,417.0,16128229.0,b0243,-,COG0014E,260727..261980,&gamma;-glutamyl kinase-GP-reductase multienzyme complex,1.0,,1157.0,784.0
+pssA,0.0,+,451.0,90111464.0,b2585,-,COG1502I,2720749..2722104,phosphatidylserine synthase,1.0,1.0,27.0,12.0
+purA,0.0,+,432.0,16131999.0,b4177,-,COG0104F,4402710..4404008,adenylosuccinate synthetase,1.0,1.0,6544.0,5886.0
+purB,0.0,-,456.0,16129094.0,b1131,-,COG0015F,1189839..1191209,5'-phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole lyase [multifunctional],1.0,1.0,1157.0,224.0
+purH,0.001,-,529.0,16131836.0,b4006,-,COG0138F,4203966..4205555,,,,3104.0,1404.0
+purL,0.005,-,1295.0,49176239.0,b2557,-,COG0046F,2689678..2693565,phosphoribosylformylglycinamide synthase,1.0,,394.0,85.0
+purN,0.353,+,212.0,16130425.0,b2500,-,COG0299F,2620256..2620894,,,,418.0,236.0
+purT,0.313,+,392.0,16129802.0,b1849,-,COG0027F,1928905..1930083,,,,420.0,83.0
+purU,0.46,-,280.0,16129193.0,b1232,-,COG0788F,1287005..1287847,,,,1451.0,549.0
+pykA,0.266,+,480.0,16129807.0,b1854,-,COG0469G,1935673..1937115,pyruvate kinase II monomer,1.0,1.0,1715.0,1476.0
+pykF,0.31,+,470.0,16129632.0,b1676,-,COG0469G,1753722..1755134,pyruvate kinase I monomer,1.0,,5794.0,3694.0
+pyrH,0.0,+,241.0,16128164.0,b0171,-,COG0528F,191855..192580,uridylate kinase,1.0,1.0,2439.0,1442.0
+ribB,0.0,-,217.0,16130937.0,b3041,-,COG0108H,3181835..3182488,3;4-dihydroxy-2-butanone 4-phosphate synthase,1.0,1.0,408.0,354.0
+ribF,0.0,+,313.0,16128019.0,b0025,-,COG0196H,21407..22348,bifunctional riboflavin kinase / FMN adenylyltransferase,1.0,,46.0,5.0
+rpsE,0.0,-,167.0,16131182.0,b3303,-,COG0098J,3442748..3443251,30S ribosomal subunit protein S5,1.0,1.0,15186.0,13040.0
+serC,0.001,+,362.0,16128874.0,b0907,-,COG1932HE,956876..957964,phosphohydroxythreonine aminotransferase / 3-phosphoserine aminotransferase,1.0,1.0,8827.0,4624.0
+serS,0.0,+,430.0,16128860.0,b0893,-,COG0172J,938651..939943,seryl-tRNA synthetase,1.0,1.0,2260.0,1480.0
+tadA,0.0,-,167.0,145698301.0,b2559,-,COG0590FJ,2695376..2695879,TadA; monomer of tRNA specific adenosine deaminase,1.0,,26.0,35.0
+thyA,0.0,-,264.0,16130731.0,b2827,-,COG0207F,2962383..2963177,thymidylate synthase,1.0,,129.0,63.0
+topA,0.0,+,865.0,16129235.0,b1274,-,COG0550L,1329072..1331669,DNA topoisomerase I,1.0,,111.0,34.0
+tpiA,0.345,-,255.0,16131757.0,b3919,-,COG0149G,4108763..4109530,triose phosphate isomerase monomer,1.0,1.0,8606.0,8988.0
+trpS,0.0,-,334.0,16131262.0,b3384,-,COG0180J,3510656..3511660,tryptophanyl-tRNA synthetase,1.0,1.0,2661.0,1337.0
+tyrA,0.006,-,373.0,16130521.0,b2600,-,COG0287E,2736970..2738091,chorismate mutase / prephenate dehydrogenase,1.0,,110.0,27.0
