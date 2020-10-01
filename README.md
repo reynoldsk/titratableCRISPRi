@@ -7,6 +7,7 @@ Notebooks are analyzed using iPython 2 in most cases, barring Mathis_Figure_5_Me
 This code was created and edited by Andrew Mathis, Ryan Otto, and Kimberly A. Reynolds
 
 Copyright (C) 2020 Andrew Mathis, Ryan Otto, Kimberly Reynolds
+
 This program is free software distributed under the BSD 3-clause
 license, please see the file LICENSE for details.
 
