@@ -1,0 +1,2402 @@
+Blast4-request ::= {
+  body queue-search {
+    program "blastn",
+    service "plain",
+    queries bioseq-set {
+      seq-set {
+        seq {
+          id {
+            local str "Query_46856"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> aroE_2_94"
+                }
+              }
+            },
+            title "aroE_2_94"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'AE5046654C'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46857"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> aroE_3_209"
+                }
+              }
+            },
+            title "aroE_3_209"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'F4B09D359D'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46858"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> purH_1_16"
+                }
+              }
+            },
+            title "purH_1_16"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '78922669A1'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46859"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> purH_2_53"
+                }
+              }
+            },
+            title "purH_2_53"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '7A983D8631'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46860"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> purH_3_209"
+                }
+              }
+            },
+            title "purH_3_209"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '14EC7F68E4'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46861"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> gpmM_1_19"
+                }
+              }
+            },
+            title "gpmM_1_19"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'D483452C53'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46862"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> gpmM_2_95"
+                }
+              }
+            },
+            title "gpmM_2_95"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '512E4D4F16'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46863"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> gpmM_3_201"
+                }
+              }
+            },
+            title "gpmM_3_201"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'A5A454AF06'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46864"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> thyA_1_60"
+                }
+              }
+            },
+            title "thyA_1_60"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '026F5AF5AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46865"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> thyA_2_111"
+                }
+              }
+            },
+            title "thyA_2_111"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '526A0D4DF9'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46866"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> thyA_3_233"
+                }
+              }
+            },
+            title "thyA_3_233"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '36953DB548'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46867"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> argG_1_24"
+                }
+              }
+            },
+            title "argG_1_24"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'C50C6F85C5'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46868"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> argG_2_71"
+                }
+              }
+            },
+            title "argG_2_71"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '4D4492E691'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46869"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> argG_3_219"
+                }
+              }
+            },
+            title "argG_3_219"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '7DA514BEFE'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46870"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> murE_1_24"
+                }
+              }
+            },
+            title "murE_1_24"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '7A45468908'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46871"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> murE_2_52"
+                }
+              }
+            },
+            title "murE_2_52"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '37764B9D98'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46872"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> murE_3_228"
+                }
+              }
+            },
+            title "murE_3_228"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '5AC65B93F4'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46873"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> acpS_1_62"
+                }
+              }
+            },
+            title "acpS_1_62"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'E5298D168D'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46874"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> acpS_2_129"
+                }
+              }
+            },
+            title "acpS_2_129"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '5200645A7A'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46875"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> acpS_3_204"
+                }
+              }
+            },
+            title "acpS_3_204"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '8F0194853E'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46876"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> pgi_1_16"
+                }
+              }
+            },
+            title "pgi_1_16"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'E52926B79B'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46877"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> pgi_2_125"
+                }
+              }
+            },
+            title "pgi_2_125"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '4DE36D82BE'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46878"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> pgi_3_279"
+                }
+              }
+            },
+            title "pgi_3_279"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '99C6E491A6'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46879"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> gyrB_1_23"
+                }
+              }
+            },
+            title "gyrB_1_23"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '57F4A1FE31'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46880"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> gyrB_2_66"
+                }
+              }
+            },
+            title "gyrB_2_66"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'ED96331315'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46881"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> gyrB_3_235"
+                }
+              }
+            },
+            title "gyrB_3_235"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'DF5AB8316B'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46882"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> pdxH_1_42"
+                }
+              }
+            },
+            title "pdxH_1_42"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '1597FAECF4'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46883"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> pdxH_2_69"
+                }
+              }
+            },
+            title "pdxH_2_69"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '8DA6A08D9A'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46884"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> pdxH_3_248"
+                }
+              }
+            },
+            title "pdxH_3_248"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'E7F1A7962B'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46885"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> parE_1_26"
+                }
+              }
+            },
+            title "parE_1_26"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '095AE2C5D0'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46886"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> parE_2_52"
+                }
+              }
+            },
+            title "parE_2_52"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '355A1A6981'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46887"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> parE_3_223"
+                }
+              }
+            },
+            title "parE_3_223"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'DF5AB83351'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46888"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> ligA_1_82"
+                }
+              }
+            },
+            title "ligA_1_82"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'CF49B6A0FD'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46889"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> ligA_2_148"
+                }
+              }
+            },
+            title "ligA_2_148"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '834A6C34BD'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46890"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> ligA_3_213"
+                }
+              }
+            },
+            title "ligA_3_213"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'FAC7D3A6CD'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46891"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> ftsA_1_50"
+                }
+              }
+            },
+            title "ftsA_1_50"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'C7026905F6'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46892"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> ftsA_2_123"
+                }
+              }
+            },
+            title "ftsA_2_123"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '7F35314661'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46893"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> ftsA_3_339"
+                }
+              }
+            },
+            title "ftsA_3_339"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '46458FD9AC'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46894"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> lpxD_1_77"
+                }
+              }
+            },
+            title "lpxD_1_77"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '23E4E86419'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46895"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> lpxD_2_141"
+                }
+              }
+            },
+            title "lpxD_2_141"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'A4425C0E74'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46896"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> lpxD_3_215"
+                }
+              }
+            },
+            title "lpxD_3_215"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'A8F7D1C52E'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46897"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> gyrA_1_9"
+                }
+              }
+            },
+            title "gyrA_1_9"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '5AEC3F7764'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46898"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> gyrA_2_59"
+                }
+              }
+            },
+            title "gyrA_2_59"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '61364C3523'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46899"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> gyrA_3_200"
+                }
+              }
+            },
+            title "gyrA_3_200"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '8F1B450611'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46900"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> tadA_1_21"
+                }
+              }
+            },
+            title "tadA_1_21"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '6E19352CF6'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46901"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> tadA_2_65"
+                }
+              }
+            },
+            title "tadA_2_65"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '691F5674D5'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46902"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> tadA_3_233"
+                }
+              }
+            },
+            title "tadA_3_233"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'F426E13106'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46903"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> pykF_3_200"
+                }
+              }
+            },
+            title "pykF_3_200"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'AE68FD685F'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46904"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> gapA_1_33"
+                }
+              }
+            },
+            title "gapA_1_33"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'A00439858C'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46905"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> gapA_2_54"
+                }
+              }
+            },
+            title "gapA_2_54"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '481BF78924'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46906"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> gapA_3_216"
+                }
+              }
+            },
+            title "gapA_3_216"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '8D1BD26B04'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46907"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> trpS_1_10"
+                }
+              }
+            },
+            title "trpS_1_10"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'EE651C0063'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46908"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> trpS_2_34"
+                }
+              }
+            },
+            title "trpS_2_34"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '50EB43D178'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46909"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> trpS_3_233"
+                }
+              }
+            },
+            title "trpS_3_233"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '46EA1E0400'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46910"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> prfA_1_7"
+                }
+              }
+            },
+            title "prfA_1_7"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'D4BFA418C8'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46911"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> prfA_2_32"
+                }
+              }
+            },
+            title "prfA_2_32"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'F7D3A6F4E4'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46912"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> prfA_3_214"
+                }
+              }
+            },
+            title "prfA_3_214"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'E6537464FD'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46913"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> murG_1_44"
+                }
+              }
+            },
+            title "murG_1_44"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'D5A8313B51'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46914"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> murG_2_81"
+                }
+              }
+            },
+            title "murG_2_81"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '9415E253C8'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46915"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> murG_3_227"
+                }
+              }
+            },
+            title "murG_3_227"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'A6F8231926'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46916"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> holB_1_13"
+                }
+              }
+            },
+            title "holB_1_13"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'D80D2B6C14'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46917"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> holB_2_47"
+                }
+              }
+            },
+            title "holB_2_47"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '177D6978C9'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46918"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> holB_3_220"
+                }
+              }
+            },
+            title "holB_3_220"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'A252AECB0D'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46919"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> ribB_1_20"
+                }
+              }
+            },
+            title "ribB_1_20"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'F6029B1402'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46920"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> ribB_2_135"
+                }
+              }
+            },
+            title "ribB_2_135"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '412D3AFDE5'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46921"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> ribB_3_201"
+                }
+              }
+            },
+            title "ribB_3_201"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'A637D2C391'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46922"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> glyA_1_26"
+                }
+              }
+            },
+            title "glyA_1_26"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '512F6934C3'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46923"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> glyA_2_116"
+                }
+              }
+            },
+            title "glyA_2_116"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '65E4F199A9'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46924"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> glyA_3_279"
+                }
+              }
+            },
+            title "glyA_3_279"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '5EA25A2E69'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46925"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> pgk_1_20"
+                }
+              }
+            },
+            title "pgk_1_20"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'FD52423523'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46926"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> pgk_2_54"
+                }
+              }
+            },
+            title "pgk_2_54"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '7AC6F48D64'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46927"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> pgk_3_285"
+                }
+              }
+            },
+            title "pgk_3_285"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '4906D065B6'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46928"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> lolA_1_14"
+                }
+              }
+            },
+            title "lolA_1_14"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'E22C3912B8'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46929"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> lolA_2_87"
+                }
+              }
+            },
+            title "lolA_2_87"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '279E1FCD4A'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46930"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> lolA_3_273"
+                }
+              }
+            },
+            title "lolA_3_273"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '5B27E74181'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46931"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> dnaX_1_33"
+                }
+              }
+            },
+            title "dnaX_1_33"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '61B4902BFB'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46932"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> dnaX_2_60"
+                }
+              }
+            },
+            title "dnaX_2_60"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'B9AD244EF5'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46933"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> dnaX_3_206"
+                }
+              }
+            },
+            title "dnaX_3_206"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '91196469B6'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46934"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> nadE_3_204"
+                }
+              }
+            },
+            title "nadE_3_204"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'B8F6F96BF5'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46935"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> dnaA_1_32"
+                }
+              }
+            },
+            title "dnaA_1_32"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'EB074D790D'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46936"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> dnaA_2_81"
+                }
+              }
+            },
+            title "dnaA_2_81"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '674BD65E43'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46937"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> dnaA_3_212"
+                }
+              }
+            },
+            title "dnaA_3_212"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '87D00649EE'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46938"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> mukF_1_14"
+                }
+              }
+            },
+            title "mukF_1_14"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '052F6A87B7'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46939"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> mukF_2_62"
+                }
+              }
+            },
+            title "mukF_2_62"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'DADC5A4988'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46940"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> mukF_3_206"
+                }
+              }
+            },
+            title "mukF_3_206"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'BCFA664658'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46941"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> serS_1_10"
+                }
+              }
+            },
+            title "serS_1_10"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'A74F19248F'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46942"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> serS_2_60"
+                }
+              }
+            },
+            title "serS_2_60"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '713527C095'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46943"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> serS_3_260"
+                }
+              }
+            },
+            title "serS_3_260"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '25EC093527'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46944"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> rpsE_1_95"
+                }
+              }
+            },
+            title "rpsE_1_95"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '0712D227B8'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46945"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> rpsE_3_249"
+                }
+              }
+            },
+            title "rpsE_3_249"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '5BB8117F04'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46946"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> fabI_1_14"
+                }
+              }
+            },
+            title "fabI_1_14"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'AF148399F1'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46947"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> fabI_2_35"
+                }
+              }
+            },
+            title "fabI_2_35"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'A32FE7A411'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46948"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> fabI_3_206"
+                }
+              }
+            },
+            title "fabI_3_206"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '2604EBB639'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46949"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> kdsA_1_48"
+                }
+              }
+            },
+            title "kdsA_1_48"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '65012C6069'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46950"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> kdsA_2_134"
+                }
+              }
+            },
+            title "kdsA_2_134"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'B0A8C54BF7'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46951"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> kdsA_3_214"
+                }
+              }
+            },
+            title "kdsA_3_214"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na 'F4D5F7D4A5'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46952"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> murA_1_25"
+                }
+              }
+            },
+            title "murA_1_25"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '1F657A27DB'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46953"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> murA_2_79"
+                }
+              }
+            },
+            title "murA_2_79"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '2CB9A400A3'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46954"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> murA_3_221"
+                }
+              }
+            },
+            title "murA_3_221"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '920C4F06D9'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_46955"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> metK_1_12"
+                }
+              }
+            },
+            title "metK_1_12"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '21A1DA1B00'H
+          }
+        }
+      }
+    },
+    subject database "nt_v5",
+    algorithm-options {
+      {
+        name "EvalueThreshold",
+        value cutoff e-value { 1, 10, 3 }
+      },
+      {
+        name "UngappedMode",
+        value boolean FALSE
+      },
+      {
+        name "PercentIdentity",
+        value real { 0, 10, 0 }
+      },
+      {
+        name "HitlistSize",
+        value integer 100
+      },
+      {
+        name "EffectiveSearchSpace",
+        value big-integer 0
+      },
+      {
+        name "DbLength",
+        value big-integer 0
+      },
+      {
+        name "WindowSize",
+        value integer 0
+      },
+      {
+        name "DustFiltering",
+        value boolean FALSE
+      },
+      {
+        name "RepeatFiltering",
+        value boolean FALSE
+      },
+      {
+        name "MaskAtHash",
+        value boolean FALSE
+      },
+      {
+        name "MismatchPenalty",
+        value integer -3
+      },
+      {
+        name "MatchReward",
+        value integer 1
+      },
+      {
+        name "GapOpeningCost",
+        value integer 5
+      },
+      {
+        name "GapExtensionCost",
+        value integer 2
+      },
+      {
+        name "StrandOption",
+        value strand-type both-strands
+      },
+      {
+        name "WordSize",
+        value integer 7
+      }
+    },
+    program-options {
+      {
+        name "EntrezQuery",
+        value string "txid511145 [ORGN]"
+      }
+    },
+    format-options {
+      {
+        name "Web_JobTitle",
+        value string "191105_sgRNA_lib_2"
+      },
+      {
+        name "Web_OrganismName",
+        value string "Escherichia coli MG1655 (taxid:511145)"
+      },
+      {
+        name "Web_NewWindow",
+        value boolean TRUE
+      },
+      {
+        name "Web_ShortQueryAdjust",
+        value boolean TRUE
+      }
+    }
+  }
+}
+

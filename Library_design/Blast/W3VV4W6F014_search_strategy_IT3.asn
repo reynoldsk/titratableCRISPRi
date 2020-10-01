@@ -1,0 +1,171 @@
+Blast4-request ::= {
+  body queue-search {
+    program "blastn",
+    service "plain",
+    queries bioseq-set {
+      seq-set {
+        seq {
+          id {
+            local str "Query_18283"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> fabA_2_88"
+                }
+              }
+            },
+            title "fabA_2_88"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '34D24EF6B9'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_18284"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> fabA_3_226"
+                }
+              }
+            },
+            title "fabA_3_226"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '54A4D5A4C1'H
+          }
+        },
+        seq {
+          id {
+            local str "Query_18285"
+          },
+          descr {
+            user {
+              type str "CFastaReader",
+              data {
+                {
+                  label str "DefLine",
+                  data str "> gyrB_2_101"
+                }
+              }
+            },
+            title "gyrB_2_101"
+          },
+          inst {
+            repr raw,
+            mol na,
+            length 20,
+            seq-data ncbi2na '8314EEB921'H
+          }
+        }
+      }
+    },
+    subject database "nt_v5",
+    algorithm-options {
+      {
+        name "EvalueThreshold",
+        value cutoff e-value { 1, 10, 3 }
+      },
+      {
+        name "UngappedMode",
+        value boolean FALSE
+      },
+      {
+        name "PercentIdentity",
+        value real { 0, 10, 0 }
+      },
+      {
+        name "HitlistSize",
+        value integer 100
+      },
+      {
+        name "EffectiveSearchSpace",
+        value big-integer 0
+      },
+      {
+        name "DbLength",
+        value big-integer 0
+      },
+      {
+        name "WindowSize",
+        value integer 0
+      },
+      {
+        name "DustFiltering",
+        value boolean FALSE
+      },
+      {
+        name "RepeatFiltering",
+        value boolean FALSE
+      },
+      {
+        name "MaskAtHash",
+        value boolean FALSE
+      },
+      {
+        name "MismatchPenalty",
+        value integer -3
+      },
+      {
+        name "MatchReward",
+        value integer 1
+      },
+      {
+        name "GapOpeningCost",
+        value integer 5
+      },
+      {
+        name "GapExtensionCost",
+        value integer 2
+      },
+      {
+        name "StrandOption",
+        value strand-type both-strands
+      },
+      {
+        name "WordSize",
+        value integer 7
+      }
+    },
+    program-options {
+      {
+        name "EntrezQuery",
+        value string "txid511145 [ORGN]"
+      }
+    },
+    format-options {
+      {
+        name "Web_JobTitle",
+        value string "191105_IT3"
+      },
+      {
+        name "Web_OrganismName",
+        value string "Escherichia coli MG1655 (taxid:511145)"
+      },
+      {
+        name "Web_NewWindow",
+        value boolean TRUE
+      },
+      {
+        name "Web_ShortQueryAdjust",
+        value boolean TRUE
+      }
+    }
+  }
+}
+
