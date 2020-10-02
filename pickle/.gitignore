@@ -1,0 +1,6 @@
+# This directory will contain pickle files output by the code
+# But we do not want to store these in the git repo (due to size)
+# This file ensures that git will ignore everything in pickle
+*
+# Except this file
+!.gitignore

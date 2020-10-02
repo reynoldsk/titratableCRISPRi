@@ -1,0 +1,7 @@
+# This directory will contain figures output by the code
+# But we do not want to store these in the git repo
+# This file ensures that git will ignore everything in Figures/
+*
+# Except these files
+!.gitignore
+!r-steps
